@@ -163,5 +163,6 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 This project is currently unlicensed. Please contact the repository owner for details.
 
 ---
+## Author
 
-**Made with ❤️ for SAP Hackfest.**
+**Rahul V S**
